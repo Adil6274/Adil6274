@@ -1,5 +1,4 @@
-# 💫 About Me:
-I ma a web developer<br>
+# 💫About Me: Hi! I'm Peerzada Adil,<br>a web developer with a love for creating dynamic, responsive web apps.<br> I have a solid background in front-end and back-end development, always eager to learn and adopt new tech.<br>What I Do:<br>Build user-friendly web applications.<br>Solve complex problems with efficient code.<br>Collaborate on projects and contribute to open-source.<br>Currently Learning:<br>Diving deeper into React, Node.js, and MongoDB.Exploring cloud deployment for scalable apps.Goals for 2024:Contribute more to open-source.Stay updated with the latest tech trends.Enhance my skills in full-stack development.<br>
 
 
 ## 🌐 Socials:
